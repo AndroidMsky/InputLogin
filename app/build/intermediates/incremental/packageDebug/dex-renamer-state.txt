@@ -1,0 +1,7 @@
+#Thu Nov 03 17:21:22 CST 2016
+base.0=/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_03d421d15471dd3250297666f2a2afdeed504bc4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0930d70c7bce5a6c6a20a783fef38521179a84e/classes.dex
+base.1=/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0930d70c7bce5a6c6a20a783fef38521179a84e
+file.0=/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_03d421d15471dd3250297666f2a2afdeed504bc4/classes.dex

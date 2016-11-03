@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/res/merged/debug/drawable/shape_wihte_frame.xml",
+        "source": "/Users/wuduogen838/Desktop/baohuo/InputView/app/src/main/res/drawable/shape_wihte_frame.xml"
+    },
+    {
+        "merged": "/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/res/merged/debug/drawable/login_button_selector.xml",
+        "source": "/Users/wuduogen838/Desktop/baohuo/InputView/app/src/main/res/drawable/login_button_selector.xml"
+    },
+    {
+        "merged": "/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/res/merged/debug/drawable/shape_touch_bule_button.xml",
+        "source": "/Users/wuduogen838/Desktop/baohuo/InputView/app/src/main/res/drawable/shape_touch_bule_button.xml"
+    },
+    {
+        "merged": "/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/res/merged/debug/drawable/shape_bule_button.xml",
+        "source": "/Users/wuduogen838/Desktop/baohuo/InputView/app/src/main/res/drawable/shape_bule_button.xml"
+    },
+    {
+        "merged": "/Users/wuduogen838/Desktop/baohuo/InputView/app/build/intermediates/res/merged/debug/drawable/transparent.xml",
+        "source": "/Users/wuduogen838/Desktop/baohuo/InputView/app/src/main/res/drawable/transparent.xml"
+    }
+]
